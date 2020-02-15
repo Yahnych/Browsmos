@@ -21,10 +21,6 @@ Chrome Web Store here:
 
 [![Available in the Chrome Web Store](https://developer.chrome.com/webstore/images/ChromeWebStore_Badge_v2_206x58.png)](https://chrome.google.com/webstore/detail/browsmos/kmijdbjgikpiadlbldnmldfgfepigkip)
 
-## Screenshots
-
-![Screenshot 1](http://stepheneisenhauer.com/images/screenshots/browsmos.png)
-
 ## Other Links
 
 * Homepage: http://stepheneisenhauer.com/browsmos/
